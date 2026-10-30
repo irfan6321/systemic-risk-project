@@ -1,0 +1,18 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+.venv/
+venv/
+env/
+.env
+
+# macOS System Files
+.DS_Store
+
+# Large Data & Local Outputs (Adjust if you want to track specific processed data)
+data/raw/
+data/interim/
+data/processed/
+results/
